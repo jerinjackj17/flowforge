@@ -1,0 +1,7 @@
+fastapi>=0.115
+uvicorn>=0.30
+langgraph>=0.2.0
+langgraph-checkpoint-redis>=0.0.7
+redis>=5.0
+pydantic>=2.0
+python-multipart>=0.0.9
