@@ -5,7 +5,7 @@ agent demos die the moment something real happens: the process crashes, the
 payment API flakes, a $25k invoice needs a human to sign off, or the model
 bill runs away. This handles all four.
 
-Live demo: _(deploying)_
+Live demo: https://flowforge-tan-xi.vercel.app
 
 ## The demo
 
